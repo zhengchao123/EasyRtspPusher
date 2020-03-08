@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">屏幕推送演示</string>
+    <string name="tv_info">屏幕推送:\n</string>
+</resources>
